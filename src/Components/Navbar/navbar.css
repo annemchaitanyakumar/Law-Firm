@@ -1,0 +1,36 @@
+.centerContent {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    cursor: pointer;
+    padding-left: 15px;
+  }
+  
+  .logo img {
+    width: 25px;
+    height: 25px;
+    margin-right: 8px;
+  }
+  
+  .logo h2 {
+    margin: 0;
+    color: antiquewhite;
+  }
+  
+  .contactBtn{
+    margin: 20px;
+    padding: 7px;
+    color: rgb(253, 251, 251);
+    background-color: black;
+    border: 2px solid white;
+    cursor: pointer;
+  }
