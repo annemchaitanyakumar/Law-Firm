@@ -5,6 +5,7 @@
     align-items: center;
     color: white;
     cursor: pointer;
+    gap: 50px;
   }
   
   .logo {
@@ -24,15 +25,4 @@
   .logo h2 {
     margin: 0;
     color: antiquewhite;
-  }
-  
-  .contactBtn{
-    width: 122px;
-    height: 40px;
-    margin: 20px;
-    padding: 9px;
-    color: rgb(253, 251, 251);
-    background-color: black;
-    border: 2px solid white;
-    cursor: pointer;
   }

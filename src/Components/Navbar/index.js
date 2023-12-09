@@ -7,8 +7,8 @@ export default () => {
             display:'flex',
             flexDirection:'row',
             justifyContent:'space-between',
-            margin:'0px',
-            padding:'10px',
+            // margin:'0px',
+            padding:'20px',
             alignItems:'center',
             color:'black'
             

@@ -29,7 +29,7 @@ export default () => {
                 <h2 style={{
                     color:'white'
                 }}>
-                    Criminal Lawer
+                    Criminal Lawyer
                 </h2>
                 <p style={{
                     color:'#FFFFFF',

@@ -13,7 +13,7 @@ export default () => {
           curabitur sodales conubia ut inceptos faucibus himenaeos tortor <br />
           eget, hac massa gravida arcu interdum proin curae.
         </p>
-        <div style={{ position: 'relative', width: '100%' }}>
+        <div style={{ position: 'relative', width: '100%',paddingTop:'20px' }}>
           <input
             type="text"
             placeholder="✉️ Enter your Email Address"
@@ -32,14 +32,15 @@ export default () => {
               width:'110px',
               height:'52px',
               right: '100px',
-              top: '5.8px',
+              top: '25.8px',
               left:'287.5px',
               borderRadius: '43px',
               background:'#E3B748',
               fontSize:'16px',
               fontWeight:'bolder',
               border:'none',
-              cursor:'pointer'
+              cursor:'pointer',
+              
             }}
           >
             Let's Talk

@@ -7,6 +7,9 @@ import Choose from './Components/Choose';
 import Practices from './Components/Practices';
 import HappyClients from './Components/HappyClients';
 import Team from './Components/Team';
+import Faq from './Components/Faq';
+import Newsletter from './Components/Newsletter';
+import Footer from './Components/Footer';
 
 export default () =>{
   return (
@@ -23,6 +26,12 @@ export default () =>{
       <Practices />
       <HappyClients />
       <Team />
+      <Faq />
+      <Newsletter />
+      <div style={{backgroundColor:'black'}}>
+        <Footer />
+      </div>
+     
       </div>
     </div>
   )

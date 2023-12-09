@@ -1,6 +1,8 @@
 export default () =>{
     return (
-        <div>
+        <div style={{
+            paddingBottom:'0px'
+            }}>
             <h1 style={{
                 color:'white',
                 textAlign:'center',
@@ -13,7 +15,7 @@ export default () =>{
                 justifyContent:'space-around',
                 margin:'100px',
                 top:'0',
-                paddingBottom:'50px'
+                // paddingBottom:'0px'
             }}>
 
             <div style={{
