@@ -1,0 +1,26 @@
+.swiper-button-prev {
+    background-color: white;
+    background-position: center;
+    background-size: 40px; /* Adjust the size of the background image */
+    background-repeat: no-repeat;
+    padding: 8px 16px;
+    border-radius: 100%;
+    border: 2px solid black;
+    color: transparent;
+    top: 3040px;
+    left: 970px;
+}
+
+.swiper-button-next {
+    background-color: #E3B748;
+    background-position: center;
+    background-size: 40px; /* Adjust the size of the background image */
+    background-repeat: no-repeat;
+    padding: 8px 16px;
+    border-radius: 100%;
+    border: 2px solid black;
+    color: transparent;
+    transform: rotate(180deg);
+    top: 3040px;
+    right: 150px;
+}
